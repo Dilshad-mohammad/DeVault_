@@ -27,4 +27,4 @@ flutter_native_splash:
     image_dark: assets/logos/D_vault.png
 
   # Enable splash screen on the web platform
-  web: false
+  web: true
