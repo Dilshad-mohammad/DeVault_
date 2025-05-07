@@ -5,9 +5,9 @@
 class TImages {
 
   // -- App Logos
-  static const String cwtLogo = "assets/logos/cwt-logo.png";
-  static const String darkAppLogo = "assets/logos/t-store-splash-logo-black.png";
-  static const String lightAppLogo = "assets/logos/t-store-splash-logo-white.png";
+  static const String cwtLogo = "assets/logos/dv_logo.jpg";
+  static const String darkAppLogo = "assets/logos/D_vault.png";
+  static const String lightAppLogo = "assets/logos/D_vault_transparent-.png";
 
   // -- Default Images
   static const String defaultImage = "assets/images/content/default_image.png";

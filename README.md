@@ -3,7 +3,7 @@
                                                                                                   
     Greetings,                                                                                    
                                                                                                   
-    We extend our sincere appreciation for your interest in [T_Admin_Panel]. This repository            
+    We extend our sincere appreciation for your interest in [D_Admin_Panel]. This repository            
     houses a robust e-commerce solution developed using the Flutter framework. Every line         
     of code here reflects our commitment to quality, efficiency, and scalability.                 
                                                                                                   
@@ -11,7 +11,7 @@
     solution even more industry-leading. Dive in, explore, and let's innovate together.           
                                                                                                   
     Regards,                                                                                      
-    Coding with T
+    Dilshad Alam
 
 
 ## Install dependencies:
@@ -20,22 +20,17 @@
 
 ## Setup Firebase Project
 
-YouTube Video
-https://youtu.be/91fmyvqBoEo?si=Rnl6xd6te04VOjEt
 ┌─── SETUP FIREBASE ───────────────────────────────────────────────────────────────────────────────┐
 |                                                                                                  |
 |    1️⃣ Initialize Packages: Begin by fetching all necessary packages.                             |
 |        Execute the following in your terminal: `flutter pub get`.                                |
 |                                                                                                  |
-|    2️⃣ Firebase Setup: Watch this tutorial to setup Firebase using CLI                            |
-|        https://www.youtube.com/watch?v=fxDusoMcWj8                                               |
-|                                                                                                  |
-|    3️⃣ Connect Firebase Project: In the terminal run `flutterfire configure` command              |
+|    2️⃣ Connect Firebase Project: In the terminal run `flutterfire configure` command              |
 |        [ERROR]: flutter-fire command not found                                                   |
 |        [SOLUTION]: Check your Environment variables. The path is not properly added.             |
 |        Next: Select your project from the list of projects and you are good to go.               |
 |                                                                                                  |
-|    4️⃣ Enable Firebase Services:                                                                  |  
+|    3️⃣ Enable Firebase Services:                                                                  |  
 |        In the Firebase Console, select your project.                                             |
 |        Follow the steps below to enable necessary services:                                      |
 |                                                                                                  |
@@ -54,7 +49,7 @@ https://youtu.be/91fmyvqBoEo?si=Rnl6xd6te04VOjEt
 |           * Click on "Get Started."                                                              |             
 |           * Follow the setup instructions.                                                       |
 |                                                                                                  |
-|    5️⃣ Generate SHA1 and SHA256 fingerprints:                                                     |    
+|    4️⃣ Generate SHA1 and SHA256 fingerprints:                                                     |    
 |        * Go to the project folder in the terminal.                                               |
 |                                                                                                  |
 |           **Mac:**                                                                               |     
@@ -70,7 +65,7 @@ https://youtu.be/91fmyvqBoEo?si=Rnl6xd6te04VOjEt
 |           keytool -list -v -keystore "C:\Users\Your PC Name\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
 |           `Here You will get SHA1 and SHA256 Keys`
 |                                                                                                  |
-|    6️⃣ Add SHA1 and SHA256 Fingerprints to Firebase Console:                                     |
+|    5️⃣  Add SHA1 and SHA256 Fingerprints to Firebase Console:                                     |
 |        * Navigate to Project settings(Gear Icon in front of Project Overview)                    |             
 |        * Go to General tab > Your apps.                                                          |
 |        * Select your app and navigate to the "Add fingerprints" button.                          |             
@@ -300,14 +295,9 @@ While using the project, you may encounter the following errors:
 
 
 
-
-
-
 # Support
-   For support, please contact [support@codingwitht.com] or visit [https://codingwitht.com/].
+   For support, please contact [Dilshadalam014.com] or visit [https://portfolio-six-tawny-60.vercel.app/].
    
 # Contributing
    Contributions to this project are welcome! To contribute, please follow our contributing guidelines.
 
-# License
-   This project is licensed under the MIT License.

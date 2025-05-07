@@ -39,7 +39,8 @@ class SettingsModel {
         taxRate: (data['taxRate'] as num?)?.toDouble() ?? 0.0,
         shippingCost: (data['shippingCost'] as num?)?.toDouble() ?? 0.0,
         freeShippingThreshold: (data['freeShippingThreshold'] as num?)?.toDouble() ?? 0.0,
-        appName: data.containsKey('appName') ? data['appName'] ?? '' : '',
+        appName: 'D-Store',
+        //appName: data.containsKey('appName') ? data['appName'] ?? 'D-Store' : '',
         appLogo: data.containsKey('appLogo') ? data['appLogo'] ?? '' : '',
       );
     } else {
